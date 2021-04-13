@@ -3,3 +3,5 @@
 ### Non profit organization based in San Francisco.
 
 Web-site is under construction for Giving Heart Music and Art. Organization accepts guitars for donations and giving it to homeless people who can and wants to play.
+
+Website is deployed at: https://giving-heart-music-and-art.web.app/
